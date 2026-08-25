@@ -1,0 +1,19 @@
+{
+  "playlists": [
+    {
+      "id": "dev1",
+      "name": "My Test Server 1",
+      "url": "https://raw.githubusercontent.com/krish-93/gugl/refs/heads/main/allmix.m3u"
+    },
+    {
+      "id": "dev2",
+      "name": "My Test Server 2",
+      "url": "https://raw.githubusercontent.com/krish-93/bhai/refs/heads/main/ALL%20MIX%20.m3u"
+    },
+      {
+      "id": "dev3",
+      "name": "My Test Server 3",
+      "url": "https://omnitv.pages.dev/jtv.m3u"
+    }
+  ]
+}
