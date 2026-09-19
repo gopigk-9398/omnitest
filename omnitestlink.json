@@ -4,6 +4,11 @@
       "id": "dev1",
       "name": "My Test Server 1",
       "url": "https://raw.githubusercontent.com/gopigk-9398/omnitest/refs/heads/main/Local.m3u"
+    },
+     {
+      "id": "dev2",
+      "name": "My Test Server 2",
+      "url": "https://raw.githubusercontent.com/gopigk-9398/omnitest/refs/heads/main/bstv.m3u"
     }
    
   ]
