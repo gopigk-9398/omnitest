@@ -2,7 +2,7 @@
   "playlists": [
 {
       "id": "dev1",
-      "name": "My Test Server 1",
+      "name": "My TV",
       "url": "https://raw.githubusercontent.com/gopigk-9398/omnitest/refs/heads/main/worldtv.m3u"
     }
    
